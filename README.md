@@ -1,8 +1,3 @@
-<!--
-Profil GitHub : dépôt public nommé exactement "InfoKanic"
-https://github.com/InfoKanic
--->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:12263A,100:1D4ED8&height=220&section=header&text=InfoKanic&fontSize=54&fontAlignY=35&desc=Un%20seul%20espace%20client%20pour%20votre%20digital&descSize=18&descAlignY=55&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="InfoKanic" />
 </div>
